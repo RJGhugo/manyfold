@@ -116,7 +116,7 @@ de:
         models:
           label: Modelle auf Seiten verteilen
         per_page:
-          label: Elemente Pro seite
+          label: Elemente pro Seite
       problem_settings:
         description: Ändere den Schweregrad der erkannten Probleme oder ignoriere sie ganz.
         title: Problem-Erkennung
